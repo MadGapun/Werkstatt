@@ -175,11 +175,22 @@ Holz aus unserem Garten in Lettland, auf gedrechselten Beinen. · **Drechseln, E
 #### 3D-gedruckte Lünette für Drechselbank (2024)
 Außen PETG, Rollen TPU, M12 Gewindestangen, Kugellager. **Werkzeugbau für Werkzeugbau.** · **3D-Druck (PETG+TPU)**
 
-#### Tablett mit Amaranth-Streifen (2024)
-Eingelegter gravierter Streifen Amaranth. · **Lasergravur, Intarsie**
+#### Tablett mit Amaranth-Streifen (Jul 2024)
 
-#### Werkstattuhr aus drei Schichten (2024)
-Gravurlaser, drei Schichten. · **Lasergravur, Schichtbauweise**
+<img src="img/7901023286613306.jpg" width="400" /> <img src="img/7901023343279967.jpg" width="400" />
+<img src="img/7901023393279962.jpg" width="400" />
+
+Ein Tablett mit eingelegtem graviertem Streifen Amaranth.
+
+**Techniken:** Lasergravur, Intarsie
+
+#### Werkstattuhr aus drei Schichten (Jul 2024)
+
+<img src="img/7901006089948359.jpg" width="400" />
+
+Meine Werkstattuhr. Mit einem Gravurlaser erstellt aus drei Schichten.
+
+**Techniken:** Lasergravur, Schichtbauweise
 
 #### Schmuckdose Amaranth gedrechselt (Jul 2024)
 
