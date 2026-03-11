@@ -169,11 +169,22 @@ Nachbar fällte Ginkgo, schenkte Holz → Vase als Dank. Vakuumgetrocknet, in Ep
 #### Schmuckdose Birne + Epoxid — fluoreszierend (2024)
 Birne vom Garten meiner Mutter, Kern aus Olivenbaum. Fun-Fakt: fluoreszierendes Epoxid. · **Drechseln, Epoxidharz**
 
-#### Beistelltisch Lettland-Holz + Epoxid (2024)
-Holz aus unserem Garten in Lettland, auf gedrechselten Beinen. · **Drechseln, Epoxidharz**
+#### Beistelltisch Lettland-Holz + Epoxid (Jul 2024)
 
-#### 3D-gedruckte Lünette für Drechselbank (2024)
-Außen PETG, Rollen TPU, M12 Gewindestangen, Kugellager. **Werkzeugbau für Werkzeugbau.** · **3D-Druck (PETG+TPU)**
+<img src="img/7901080979940870.jpg" width="400" />
+
+Ein kleiner Beistelltisch. Das Holz stammt aus unserem Garten in Lettland und die Scheiben wurden mit Epoxid eingegossen.
+
+**Techniken:** Drechseln, Epoxidharz
+
+#### 3D-gedruckte Lünette für Drechselbank (Jul 2024)
+
+<img src="img/7901035846612050.jpg" width="400" /> <img src="img/7901035893278712.jpg" width="400" />
+<img src="img/7901089473273354.jpg" width="400" /> <img src="img/7901089609940007.jpg" width="400" />
+
+Bei langen Vasen braucht man eine Lünette um das Werkstück zu stabilisieren. Meine hab ich selber gebaut. Außen mit PETG gedruckt und die Rollen mit TPU. Innerhalb des 3D-gedruckten Äußeren ist es innen mit M12 Gewindestangen gezogen und verschraubt. Die Rollen laufen auf Kugellager. **Werkzeugbau für Werkzeugbau.**
+
+**Techniken:** 3D-Druck (PETG + TPU), Werkzeugbau
 
 #### Tablett mit Amaranth-Streifen (Jul 2024)
 
