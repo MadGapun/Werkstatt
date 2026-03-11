@@ -154,8 +154,13 @@ Lettisches Webmuster und Hirsch-Silhouette. · **Lasergravur, Mixed Media**
 #### Vase Birne + Gold-Epoxid (2024)
 Blattgold-Reste fielen beim Arbeiten auf den Rohling — daher die goldene Farbe. · **Drechseln, Epoxidharz**
 
-#### Uhr Insel Rügen + Blattgold (2024)
-CNC-Form der Insel, blaues Epoxid, echtes Blattgold. Mein erster Versuch. · **CNC-Fräsen, Blattvergoldung**
+#### Uhr Insel Rügen + Blattgold (Jul 2024)
+
+<img src="img/7901131906602444.jpg" width="400" /> <img src="img/7901131946602440.jpg" width="400" />
+
+Eine Uhr für einen Freund. Es stellt die Insel Rügen dar. Die Buchstaben hab ich mit echtem Blattgold vergoldet. Es war mein erster und bisher letzter Versuch. Sieht immer so leicht aus. Und es schmerzt, dass die meiste Folie verschwendet wird. Wahrscheinlich fliegen immer noch Reste durch meine Werkstatt.
+
+**Techniken:** CNC-Fräsen, Epoxidharz, Blattvergoldung
 
 #### Lettland-Uhr in Landesfarben (2024)
 Lettland in den Landesfarben. · **CNC-Fräsen, Epoxidharz**
@@ -163,8 +168,13 @@ Lettland in den Landesfarben. · **CNC-Fräsen, Epoxidharz**
 #### Schmuckdose Lettische Nationalfarben (2024)
 Karminrot/weiß/karminrot. · **Drechseln, Epoxidharz**
 
-#### Ginkgo-Vase als Dankgeschenk (2024)
-Nachbar fällte Ginkgo, schenkte Holz → Vase als Dank. Vakuumgetrocknet, in Epoxid. · **Drechseln, Vakuumtrocknung, Epoxidharz**
+#### Ginkgo-Vase als Dankgeschenk (Jul 2024)
+
+<img src="img/7901106789938289.jpg" width="400" /> <img src="img/7901122553270046.jpg" width="400" />
+
+Ein Nachbar hat seinen Ginkgo-Baum gefällt und hat mir einiges vom Holz geschenkt. Als Dank habe ich diese Vase gemacht. Sie ist aus dem Holz des Baumes, welches ich u.a. im Vakuum getrocknet habe und ist in Epoxid gegossen.
+
+**Techniken:** Drechseln, Vakuumtrocknung, Epoxidharz
 
 #### Schmuckdose Birne + Epoxid — fluoreszierend (2024)
 Birne vom Garten meiner Mutter, Kern aus Olivenbaum. Fun-Fakt: fluoreszierendes Epoxid. · **Drechseln, Epoxidharz**
