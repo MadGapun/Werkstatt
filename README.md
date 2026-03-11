@@ -181,8 +181,15 @@ Eingelegter gravierter Streifen Amaranth. · **Lasergravur, Intarsie**
 #### Werkstattuhr aus drei Schichten (2024)
 Gravurlaser, drei Schichten. · **Lasergravur, Schichtbauweise**
 
-#### Schmuckdose Amaranth gedrechselt (2024)
-Farbe entsteht durch Oxidation an der Luft. Sehr hartes Holz. · **Drechseln**
+#### Schmuckdose Amaranth gedrechselt (Jul 2024)
+
+<img src="img/7900850249963943.jpg" width="400" /> <img src="img/7900850219963946.jpg" width="400" />
+<img src="img/7900850379963930.jpg" width="400" /> <img src="img/7900850289963939.jpg" width="400" />
+<img src="img/7900850339963934.jpg" width="400" />
+
+Diese Schmuckdose wurde aus Amaranth gedrechselt. Die Farbe entsteht automatisch durch die Reaktion mit der Luft. Während der Bearbeitung auf der Drechselbank war ich sehr schnell gezwungen mir eine vernünftige Schleifmaschine anzuschaffen, da meine Werkzeuge an diesem harten Holz sehr schnell abstumpften.
+
+**Techniken:** Drechseln, Schleifen
 
 #### Vase/Stifthalter Purple Heart + Kiefer (Jul 2024)
 
