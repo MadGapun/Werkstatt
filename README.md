@@ -184,8 +184,13 @@ Gravurlaser, drei Schichten. · **Lasergravur, Schichtbauweise**
 #### Schmuckdose Amaranth gedrechselt (2024)
 Farbe entsteht durch Oxidation an der Luft. Sehr hartes Holz. · **Drechseln**
 
-#### Vase/Stifthalter Purple Heart + Kiefer (2024)
-Eigentlich nur was ausprobieren — besser gelungen als gedacht. · **Drechseln, Lackieren**
+#### Vase/Stifthalter Purple Heart + Kiefer (Jul 2024)
+
+<img src="img/7900818629967105.jpg" width="400" />
+
+Eine kleine Vase/Stifthalter aus Purple Heart und Kiefer gedrechselt. Mit Lack versiegelt. Eigentlich wollte ich nur was ausprobieren und dann ist es mir besser gelungen als gedacht.
+
+**Techniken:** Drechseln, Lackieren
 
 #### Raspberry Pi CNC-Steuerung (2024)
 Alter Raspberry Pi 3b → CNC-Controller. Minimal-OS, Apache, Samba, CNCjs. Touchscreen, 3D-gedrucktes Gehäuse. Remote steuerbar. · **Linux, CNCjs, 3D-Druck**
