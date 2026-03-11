@@ -127,8 +127,14 @@ Hat sich aus der Planscheibe gerissen, Werkzeugauflage abgebrochen, an die Decke
 #### Schmuckdose Amaranth + Lettische Eiche (2024)
 Die Eichenbohlen ein Geschenk. Nur Wachs, kein Lack — es soll sich anfühlen wie Holz. · **Drechseln, Wachsen**
 
-#### Windlicht-Serie (Jul–Aug 2024)
-Ventspils/Lettland · Jahr des Drachens · HSV · CASA · Flohmarkt-Glas — alle lasergeschnitten, jedes personalisiert. · **Laserschneiden, Serien-Denken**
+#### Windlicht-Boxen für verschiedene Glasgrößen (Jul 2024)
+
+<img src="img/7901158876599747.jpg" width="400" /> <img src="img/7901158906599744.jpg" width="400" />
+<img src="img/7901158993266402.jpg" width="400" />
+
+Diese Boxen sind für Windlichter. Für verschiedene Glasgrößen die rein gesetzt werden. Lasergeschnittenes Voronoi-/Kreismuster.
+
+**Techniken:** Laserschneiden
 
 #### Servierbrett mit Lichtenberg + Epoxid (2024)
 Muster mit Hochspannung eingebrannt (nicht graviert!) und mit Epoxid ausgegossen. · **Lichtenberg, Epoxidharz**
@@ -162,8 +168,13 @@ Eine Uhr für einen Freund. Es stellt die Insel Rügen dar. Die Buchstaben hab i
 
 **Techniken:** CNC-Fräsen, Epoxidharz, Blattvergoldung
 
-#### Lettland-Uhr in Landesfarben (2024)
-Lettland in den Landesfarben. · **CNC-Fräsen, Epoxidharz**
+#### Lettland-Uhr in Landesfarben (Jul 2024)
+
+<img src="img/7901149503267351.jpg" width="400" />
+
+Eine weitere Uhr aus Holz/Epoxid. Eine Uhr die Lettland darstellt in den Landesfarben.
+
+**Techniken:** CNC-Fräsen, Epoxidharz
 
 #### Schmuckdose Lettische Nationalfarben (2024)
 Karminrot/weiß/karminrot. · **Drechseln, Epoxidharz**
