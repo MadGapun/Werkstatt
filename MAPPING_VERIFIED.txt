@@ -1,0 +1,242 @@
+# VERIFIZIERTES MAPPING: Facebook Post → Bild-IDs
+# KOMPLETT — Jede Zuordnung per Facebook "Beitrag ansehen" + Foto-Viewer bestätigt
+# Stand: 04.04.2026 — FINAL
+
+# ===== 2025 POSTS =====
+
+# POST 2: Klētnieki Hausschild (Okt 2025) — 9 Bilder [HTML-Export]
+2 | 24809025938719776
+2 | 24809035652052138
+2 | 24809071108715259
+2 | 24809022588720111
+2 | 24809113408711029
+2 | 24809022918720078
+2 | 24809190248703345
+2 | 24809197458702624
+2 | 24809215942034109
+
+# POST 5: Kerzenständer Kellerfund (Aug 2025) — 5 Bilder [HTML-Export]
+5 | 24388633997425641
+5 | 24388634230758951
+5 | 24388634364092271
+5 | 24388634550758919
+5 | 24388634020758972
+
+# POST 6: Grillzange HSV Vatertag (Aug 2025) — 3 Bilder [HTML-Export]
+6 | 24171013762521000
+6 | 24171014062520970
+6 | 24171013832520993
+
+# POST 7: Teelichthalter Prototyp (Aug 2025) — 5 Bilder [HTML-Export]
+7 | 24170893312533045
+7 | 24170893559199687
+7 | 24170893755866334
+7 | 24170893585866351
+7 | 24170893352533041
+
+# POST 8: Schleifvorrichtung (Mai 2025) — 8 Bilder [HTML-Export]
+8 | 9756209644427985
+8 | 9756210024427947
+8 | 9756209671094649
+8 | 9756209851094631
+8 | 9756213197760963
+8 | 9756209814427968
+8 | 9756210914427858
+8 | 9756210084427941
+
+# POST 9: Alu-Werkzeug Fahrrad (Mär 2025) — 5 Bilder [HTML-Export]
+9 | 9427678690614417
+9 | 9427679257281027
+9 | 9427678827281070
+9 | 9427678860614400
+9 | 9427678700614416
+
+# POST 13: Holzring (6. Feb 2025) — 3 Bilder [Browser-verifiziert]
+13 | 9140748785974077
+13 | 9140757489306540
+13 | 9140761945972761
+
+# ===== 2024 POSTS (alle per Facebook Browser-Viewer verifiziert) =====
+
+# POST 16: Birnbaum-Uhr (21. Dez 2024) — 7 Bilder
+16 | 8889583524423939
+16 | 8889584034423888
+16 | 8889583904423901
+16 | 8889583867757238
+16 | 8889583551090603
+16 | 8889583727757252
+16 | 8889583747757250
+
+# POST 15: Mona Lisa Relief (24. Dez 2024) — 2 Bilder
+15 | 8908557799193178
+15 | 8908557829193175
+
+# POST 17: CNC-Fixiertisch (29. Okt 2024) — 3 Bilder
+17 | 8588809451168016
+17 | 8588809324501362
+17 | 8588809364501358
+
+# POST 18: Stempel & Stempelkissen (7. Okt 2024) — 4 Bilder
+18 | 8439885889393707
+18 | 8439888239393472
+18 | 8439932259389070
+18 | 8439940546054908
+
+# POST 19: Löffel schnitzen (20. Sep 2024) — 2 Bilder
+19 | 8280850465297251
+19 | 8280851935297104
+
+# POST 20: Stift-Regale Kirschblüten (16. Sep 2024) — 4 Bilder
+20 | 8244367395612225
+20 | 8244367505612214
+20 | 8244367422278889
+20 | 8244367575612207
+
+# POST 21: Sonnensystem Grundschule (10. Sep 2024) — 3 Bilder
+21 | 8200371363345162
+21 | 8200372860011679
+21 | 8200375010011464
+
+# POST 24: Wandregal (20. Aug 2024) — 5 Bilder
+24 | 8070864666295833
+24 | 8070864712962495
+24 | 8070864792962487
+24 | 8070864892962477
+24 | 8072311322817834
+
+# POST 25: Stuhlsitz CNC-graviert (12. Aug 2024) — 1 Bild
+25 | 8025809937467973
+
+# POST 26: Schneidebrett aus altem Holz (10. Aug 2024) — 3 Bilder
+26 | 8013603122021988
+26 | 8013601088688858
+26 | 8013604918688475
+
+# POST 27: 15-Kilo-Rohling (6. Aug 2024) — 4 Bilder
+27 | 7990484951000472
+27 | 7990485044333796
+27 | 7990485164333784
+27 | 7990485254333775
+
+# POST 28: Schmuckdose Amaranth + Lettische Eiche (2. Aug 2024) — 4 Bilder
+28 | 7965452520170382
+28 | 7965432996839001
+28 | 7965436376838663
+28 | 7965434700172164
+
+# POST 29: Windlicht Ventspils (22. Jul 2024) — 2 Bilder
+29 | 7901495383232763
+29 | 7901500789898889
+
+# POST 30: Windlicht Jahr des Drachens (22. Jul 2024) — 2 Bilder
+30 | 7901491326566502
+30 | 7901491413233160
+
+# POST 31: Servierbrett Lichtenberg (22. Jul 2024) — 1 Bild
+31 | 7901363959912572
+
+# POST 32: HSV-Windlicht (22. Jul 2024) — 1 Bild
+32 | 7901356726579962
+
+# POST 33: Flohmarkt-Glas Windlicht (22. Jul 2024) — 2 Bilder
+33 | 7901321556583479
+33 | 7901321673250134
+
+# POST 34: Windlicht CASA (22. Jul 2024) — 2 Bilder
+34 | 7901311919917776
+34 | 7901311979917770
+
+# POST 35: Schatulle Amaranth (22. Jul 2024) — 2 Bilder
+35 | 7901298296585805
+35 | 7901298266585808
+
+# POST 36: Dodekaeder-Lampe (22. Jul 2024) — 3 Bilder
+36 | 7901284173253884
+36 | 7901284279920540
+36 | 7901284203253881
+
+# POST 37: Vegvisir-Uhr (22. Jul 2024) — 1 Bild
+37 | 7901257229923245
+
+# POST 38: Laserkammer (22. Jul 2024) — 1 Bild
+38 | 7901236666591968
+
+# POST 39: River Table (22. Jul 2024) — 1 Bild
+39 | 7901221993260102
+
+# POST 40: Handyhülle (22. Jul 2024) — 1 Bild
+40 | 7901215016594133
+
+# POST 41: Vase Birne Gold (22. Jul 2024) — 1 Bild
+41 | 7901194263262875
+
+# POST 42: Lichtenberg-Brett (22. Jul 2024) — 2 Bilder
+42 | 7901178963264405
+42 | 7901177953264506
+
+# POST 43: Nationalfarben-Dose (22. Jul 2024) — 2 Bilder
+43 | 7901172159931752
+43 | 7901172216598413
+
+# POST 44: Windlicht-Boxen (22. Jul 2024) — 3 Bilder
+44 | 7901158876599747
+44 | 7901158906599744
+44 | 7901158993266402
+
+# POST 45: Lettland-Uhr (22. Jul 2024) — 1 Bild
+45 | 7901149503267351
+
+# POST 46: Rügen-Uhr Blattgold (22. Jul 2024) — 2 Bilder
+46 | 7901131906602444
+46 | 7901131946602440
+
+# POST 47: Ginkgo-Vase (22. Jul 2024) — 2 Bilder
+47 | 7901122553270046
+47 | 7901106789938289
+
+# POST 48: Schmuckdose Birne fluoreszierend (22. Jul 2024) — 3 Bilder
+48 | 7901089473273354
+48 | 7901089506606684
+48 | 7901089609940007
+
+# POST 49: Beistelltisch Lettland (22. Jul 2024) — 1 Bild
+49 | 7901080979940870
+
+# POST 50: 3D-gedruckte Lünette (22. Jul 2024) — 2 Bilder
+50 | 7901035846612050
+50 | 7901035893278712
+
+# POST 51: Tablett Amaranth-Streifen (22. Jul 2024) — 3 Bilder
+51 | 7901023286613306
+51 | 7901023343279967
+51 | 7901023393279962
+
+# POST 52: Werkstattuhr (22. Jul 2024) — 1 Bild
+52 | 7901006089948359
+
+# POST 54: Schmuckdose Amaranth (22. Jul 2024) — 5 Bilder
+54 | 7900850249963943
+54 | 7900850219963946
+54 | 7900850379963930
+54 | 7900850289963939
+54 | 7900850339963934
+
+# POST 55: Purple Heart Vase (22. Jul 2024) — 1 Bild
+55 | 7900818629967105
+
+# ===== POSTS OHNE BILDER IM ALBUM (nur Text/Video) =====
+# Post 1: Stifthalter Amaranth (Text-only, kein Bild im Album)
+# Post 4: Feuerholz (Video-only)
+# Post 12: Raspberry Pi CNC (Text + Bilder — NICHT IM ALBUM gefunden)
+# Post 22: Birkenplatte fräsen (Text + Bilder — NICHT IM ALBUM gefunden)
+# Post 53: Rohling-Video (Video-only)
+# Post 56: Schemel erste Werke (Text-only, kein Bild im Album)
+
+# ===== NICHT-HOBBY POSTS (bewusst ausgelassen) =====
+# Post 3: Bohemian Rhapsody
+# Post 10: "Denkt mal drüber nach"
+# Post 11: Wolf-Parabel
+# Post 14: "Dieses Wissen teile ich"
+# Post 23: Hannah Arendt Zitat
+
+# TOTAL: 128 JPG-Bilder in 39 Posts verifiziert

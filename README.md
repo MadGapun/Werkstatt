@@ -87,48 +87,24 @@ PLA und PETG aus dem 3D-Drucker scheiterten — also ein Reststück Alu gefunden
 
 ---
 
-### 2024
-
-#### Birkenplatte fräsen (2024)
+#### Holzring — unbekanntes Hartholz (Feb 2025)
 
 <img src="img/9140748785974077.jpg" width="400" /> <img src="img/9140757489306540.jpg" width="400" />
 <img src="img/9140761945972761.jpg" width="400" />
 
-Birkenplatte für eine kleine Box. Sauberes Schnittbild — aber riesige Späne. "Frage als Anfänger: gut oder schlecht? Meine Absaugung kommt nicht damit klar."
-
-**Techniken:** CNC-Fräsen
-
----
-
-#### Holzring — unbekanntes Hartholz (2024)
-
-<img src="img/8908557799193178.jpg" width="400" /> <img src="img/8908557829193175.jpg" width="400" />
-
-Keine Ahnung, was das für ein Holz ist. Sehr schwer und fein gemasert. Eine Miniatur-Drechselarbeit.
+Keine Ahnung, was das für ein Holz ist. Sehr schwer und fein gemasert. Die Reststücke waren dunkel gebeizt.
 
 **Techniken:** Drechseln (Miniatur)
 
 ---
 
-#### Raspberry Pi CNC-Steuerung (2024)
-
-<img src="img/8889583524423939.jpg" width="400" /> <img src="img/8889583551090603.jpg" width="400" />
-<img src="img/8889583727757252.jpg" width="400" /> <img src="img/8889583747757250.jpg" width="400" />
-<img src="img/8889583867757238.jpg" width="400" /> <img src="img/8889583904423901.jpg" width="400" />
-<img src="img/8889584034423888.jpg" width="400" />
-
-Alter Raspberry Pi 3b zum CNC-Controller umgebaut. Raspberry OS minimal, Apache, Samba, CNCjs. 10-Zoll Touchscreen, 3D-gedrucktes Gehäuse. Steuerbar über Touch, kabellose Tastatur oder Remote aus dem Nebenzimmer. Kein Laptop neben der staubigen Maschine nötig.
-
-**Techniken:** Linux, CNCjs, 3D-Druck, Netzwerk, Automatisierung
-
----
+### 2024
 
 #### Mona Lisa Relief in Eiche (Dez 2024)
 
-<img src="img/8588809324501362.jpg" width="400" /> <img src="img/8588809364501358.jpg" width="400" />
-<img src="img/8588809451168016.jpg" width="400" />
+<img src="img/8908557799193178.jpg" width="400" /> <img src="img/8908557829193175.jpg" width="400" />
 
-3D-Relief in ca. DIN A5 großem Stück Eiche. "Für einen Test muss ich dafür nur noch einen Verwendungszweck finden. Als Feuerholz wird es nicht enden."
+Da ich mich mit Reliefs beschäftige, hab ich mal versucht was Bekanntes in ein ca. DIN A5 großes Stück Eiche zu schaffen. "Für einen Test muss ich dafür nur noch einen Verwendungszweck finden. Als Feuerholz wird es nicht enden."
 
 **Techniken:** CNC-Relief-Fräsen
 
@@ -136,8 +112,10 @@ Alter Raspberry Pi 3b zum CNC-Controller umgebaut. Raspberry OS minimal, Apache,
 
 #### Uhr aus Birnbaumholz — Geschenk (Dez 2024)
 
-<img src="img/8439885889393707.jpg" width="400" /> <img src="img/8439888239393472.jpg" width="400" />
-<img src="img/8439932259389070.jpg" width="400" /> <img src="img/8439940546054908.jpg" width="400" />
+<img src="img/8889583524423939.jpg" width="400" /> <img src="img/8889584034423888.jpg" width="400" />
+<img src="img/8889583904423901.jpg" width="400" /> <img src="img/8889583867757238.jpg" width="400" />
+<img src="img/8889583551090603.jpg" width="400" /> <img src="img/8889583727757252.jpg" width="400" />
+<img src="img/8889583747757250.jpg" width="400" />
 
 Stumpf Birne von meiner Mutter → CNC-planfräsen → Gravur → Ölen → Goldpaste auf die Ornamente → Uhrwerk. Geburtstagsgeschenk für einen Freund.
 
@@ -145,20 +123,21 @@ Stumpf Birne von meiner Mutter → CNC-planfräsen → Gravur → Ölen → Gold
 
 ---
 
-#### CNC-Fixiertisch Multi-Möglichkeiten (2024)
+#### CNC-Fixiertisch Multi-Möglichkeiten (Okt 2024)
 
-<img src="img/8280850465297251.jpg" width="400" /> <img src="img/8280851935297104.jpg" width="400" />
+<img src="img/8588809451168016.jpg" width="400" /> <img src="img/8588809324501362.jpg" width="400" />
+<img src="img/8588809364501358.jpg" width="400" />
 
-Eigene Befestigungsplatte für die CNC. Mit Laser-Verschnitt als austauschbare Opferplatten.
+Eigene Befestigungsplatte für die CNC. Mit Laser-Verschnitt als austauschbare Opferplatten. "Trotzdem ich liebe das Teil."
 
 **Techniken:** CNC-Konstruktion, Problemlösung
 
 ---
 
-#### Stempel & Stempelkissen (2024)
+#### Stempel & Stempelkissen (Okt 2024)
 
-<img src="img/8244367395612225.jpg" width="400" /> <img src="img/8244367422278889.jpg" width="400" />
-<img src="img/8244367505612214.jpg" width="400" /> <img src="img/8244367575612207.jpg" width="400" />
+<img src="img/8439885889393707.jpg" width="400" /> <img src="img/8439888239393472.jpg" width="400" />
+<img src="img/8439932259389070.jpg" width="400" /> <img src="img/8439940546054908.jpg" width="400" />
 
 Stempel selber gemacht, dazu ein Stempelkissen das man nicht in der Schublade verstecken muss. Moosgummi dichtet ab und es klappert nicht.
 
@@ -166,10 +145,9 @@ Stempel selber gemacht, dazu ein Stempelkissen das man nicht in der Schublade ve
 
 ---
 
-#### Löffel schnitzen (2024)
+#### Löffel schnitzen (Sep 2024)
 
-<img src="img/8200371363345162.jpg" width="400" /> <img src="img/8200372860011679.jpg" width="400" />
-<img src="img/8200375010011464.jpg" width="400" />
+<img src="img/8280850465297251.jpg" width="400" /> <img src="img/8280851935297104.jpg" width="400" />
 
 Wartezeiten nutzen und Restholz verwerten. Etwas grob, aber die richtige Größe für Kaffee oder Salz.
 
@@ -177,9 +155,10 @@ Wartezeiten nutzen und Restholz verwerten. Etwas grob, aber die richtige Größe
 
 ---
 
-#### Stift-Regale mit Kirschblüten (2024)
+#### Stift-Regale mit Kirschblüten (Sep 2024)
 
-<img src="img/8072311322817834.jpg" width="400" />
+<img src="img/8244367395612225.jpg" width="400" /> <img src="img/8244367505612214.jpg" width="400" />
+<img src="img/8244367422278889.jpg" width="400" /> <img src="img/8244367575612207.jpg" width="400" />
 
 Für meine Tochter. Kirschblüten mit dem Laser eingraviert und weiß gebeizt.
 
@@ -187,53 +166,65 @@ Für meine Tochter. Kirschblüten mit dem Laser eingraviert und weiß gebeizt.
 
 ---
 
-#### Sonnensystem für Grundschule (2024)
+#### Sonnensystem für Grundschule (Sep 2024)
 
-<img src="img/8070864666295833.jpg" width="400" /> <img src="img/8070864712962495.jpg" width="400" />
-<img src="img/8070864792962487.jpg" width="400" /> <img src="img/8070864892962477.jpg" width="400" />
+<img src="img/8200371363345162.jpg" width="400" /> <img src="img/8200372860011679.jpg" width="400" />
+<img src="img/8200375010011464.jpg" width="400" />
 
-Relief entworfen und gefräst, mit pigmentiertem Wachs verfeinert. Für eine Grundschule.
+Ich wurde gefragt ob ich was machen kann, wo die Bälle welches die Planeten des Sonnensystems darstellen abgelegt werden können. Relief entworfen und gefräst, mit pigmentiertem Wachs verfeinert.
 
 **Techniken:** CNC-Relief-Fräsen, Wachspigmentierung
 
 ---
 
-#### Selbstgebautes Wandregal (2024)
+#### Wandregal — Upcycling (Aug 2024)
 
-<img src="img/8025809937467973.jpg" width="400" />
+<img src="img/8070864666295833.jpg" width="400" /> <img src="img/8070864712962495.jpg" width="400" />
+<img src="img/8070864792962487.jpg" width="400" /> <img src="img/8070864892962477.jpg" width="400" />
+<img src="img/8072311322817834.jpg" width="400" />
 
-"Wieder viel gelernt."
+Hier hing ein etwas vergammeltes Brett. Also einfach mal getraut, es durch ein selbst gestaltetes Regal zu ersetzen. "Wieder viel gelernt."
 
 **Techniken:** Holzbau, Konstruktion
 
 ---
 
-#### Stuhlsitz CNC-graviert + Silber-Epoxid (2024)
+#### Stuhlsitz CNC-graviert + Silber-Epoxid (Aug 2024)
 
-<img src="img/8013601088688858.jpg" width="400" /> <img src="img/8013603122021988.jpg" width="400" />
-<img src="img/8013604918688475.jpg" width="400" />
+<img src="img/8025809937467973.jpg" width="400" />
 
-Alter Stuhl mit Mandala-CNC-Gravur veredelt und mit Silber-Epoxid gefüllt.
+Ein weiteres Upcycling. Die Sitzfläche des Stuhls wurde graviert und mit Silber-Epoxid gefüllt.
 
 **Techniken:** CNC-Gravur, Epoxidharz, Upcycling
 
 ---
 
-#### Schneidebrett aus altem Holz — Upcycling (2024)
+#### Schneidebrett aus altem Holz — Upcycling (Aug 2024)
 
-<img src="img/7990484951000472.jpg" width="400" /> <img src="img/7990485044333796.jpg" width="400" />
-<img src="img/7990485164333784.jpg" width="400" /> <img src="img/7990485254333775.jpg" width="400" />
+<img src="img/8013603122021988.jpg" width="400" /> <img src="img/8013601088688858.jpg" width="400" />
+<img src="img/8013604918688475.jpg" width="400" />
 
-Ein altes, schmutziges Stück Holz. Oberfräse, Schleifen, Hartwachs — fertig ist das Schneidebrett.
+Das war mal ein altes, schmutziges Stück Holz. Oberfräse, Schleifen, Hartwachs — fertig ist das Schneidebrett.
 
 **Techniken:** Oberfräse, Schleifen, Hartwachs, Upcycling
 
 ---
 
-#### Schmuckdose Amaranth + Lettische Eiche (2024)
+#### 15-Kilo-Rohling — Beinahe-Unfall (Aug 2024)
 
-<img src="img/7965432996839001.jpg" width="400" /> <img src="img/7965434700172164.jpg" width="400" />
-<img src="img/7965436376838663.jpg" width="400" /> <img src="img/7965452520170382.jpg" width="400" />
+<img src="img/7990484951000472.jpg" width="400" /> <img src="img/7990485044333796.jpg" width="400" />
+<img src="img/7990485164333784.jpg" width="400" /> <img src="img/7990485254333775.jpg" width="400" />
+
+Im Kern eine sehr starke Unwucht. Bei der Suche nach der richtigen Frequenz hat sich der 15-Kilo-Bolide aus der Planscheibe gerissen, die Werkzeugauflage (Gussstahl) abgebrochen, ist an die Decke geknallt und hat mich knapp verfehlt. Wie schnell man doch Kräfte unterschätzt.
+
+**Techniken:** Drechseln, Respekt vor Physik
+
+---
+
+#### Schmuckdose Amaranth + Lettische Eiche (Aug 2024)
+
+<img src="img/7965452520170382.jpg" width="400" /> <img src="img/7965432996839001.jpg" width="400" />
+<img src="img/7965436376838663.jpg" width="400" /> <img src="img/7965434700172164.jpg" width="400" />
 
 Amaranth und lettische Eiche. Die Eichenbohlen ein Geschenk. Nur Wachs, kein Lack — es soll sich anfühlen wie Holz.
 
@@ -241,11 +232,21 @@ Amaranth und lettische Eiche. Die Eichenbohlen ein Geschenk. Nur Wachs, kein Lac
 
 ---
 
+#### Windlicht Ventspils (Jul 2024)
+
+<img src="img/7901495383232763.jpg" width="400" /> <img src="img/7901500789898889.jpg" width="400" />
+
+Ein Windlicht für jemand der aus der Stadt Ventspils aus Lettland kommt.
+
+**Techniken:** Laserschneiden
+
+---
+
 #### Windlicht Jahr des Drachens (Jul 2024)
 
-<img src="img/7901500789898889.jpg" width="400" />
+<img src="img/7901491326566502.jpg" width="400" /> <img src="img/7901491413233160.jpg" width="400" />
 
-Chinesischer Drache + Kanji. Ein großes Windlicht für das Jahr des Drachens.
+Ein großes Windlicht für das Jahr des Drachens. Chinesischer Drache + Kanji.
 
 **Techniken:** Laserschneiden
 
@@ -253,9 +254,9 @@ Chinesischer Drache + Kanji. Ein großes Windlicht für das Jahr des Drachens.
 
 #### Servierbrett mit Lichtenberg + Epoxid (Jul 2024)
 
-<img src="img/7901495383232763.jpg" width="400" />
+<img src="img/7901363959912572.jpg" width="400" />
 
-Muster mit Hochspannung eingebrannt (nicht graviert!) und mit Epoxid ausgegossen.
+Das Muster wurde eingebrannt (Hochspannung, nicht Gravur!) und mit Epoxid ausgegossen.
 
 **Techniken:** Lichtenberg (Hochspannung), Epoxidharz
 
@@ -263,7 +264,7 @@ Muster mit Hochspannung eingebrannt (nicht graviert!) und mit Epoxid ausgegossen
 
 #### HSV-Windlicht (Jul 2024)
 
-<img src="img/7901491326566502.jpg" width="400" /> <img src="img/7901491413233160.jpg" width="400" />
+<img src="img/7901356726579962.jpg" width="400" />
 
 Was schenkt man einem HSV-Fan? Ein Windlicht. So kann man für seinen Verein einfach mal ne Kerze anzünden.
 
@@ -273,7 +274,7 @@ Was schenkt man einem HSV-Fan? Ein Windlicht. So kann man für seinen Verein ein
 
 #### Windlicht Flohmarkt-Glas (Jul 2024)
 
-<img src="img/7901363959912572.jpg" width="400" />
+<img src="img/7901321556583479.jpg" width="400" /> <img src="img/7901321673250134.jpg" width="400" />
 
 Schönes Glas auf dem Flohmarkt gefunden, mit Holz verkleidet. Wird im Moment mehr als Vase "missbraucht".
 
@@ -283,9 +284,9 @@ Schönes Glas auf dem Flohmarkt gefunden, mit Holz verkleidet. Wird im Moment me
 
 #### Windlicht "CASA" (Jul 2024)
 
-<img src="img/7901356726579962.jpg" width="400" />
+<img src="img/7901311919917776.jpg" width="400" /> <img src="img/7901311979917770.jpg" width="400" />
 
-Lasergeschnittenes Windlicht mit Monogramm und Haus-Motiv.
+Wieder ein Windlicht. Nun aber mit einem anderen Motiv.
 
 **Techniken:** Laserschneiden
 
@@ -293,9 +294,9 @@ Lasergeschnittenes Windlicht mit Monogramm und Haus-Motiv.
 
 #### Schatulle aus Amaranth-Massivblock (Jul 2024)
 
-<img src="img/7901321556583479.jpg" width="400" /> <img src="img/7901321673250134.jpg" width="400" />
+<img src="img/7901298296585805.jpg" width="400" /> <img src="img/7901298266585808.jpg" width="400" />
 
-Aus einem massiven Stück herausgearbeitet — nur in zwei Teile geschnitten. Messingbeschläge (Schloss, Scharniere, Füße).
+Aus einem massiven Stück herausgearbeitet — nur in zwei Teile geschnitten. Noch frisch, daher ist das Holz noch nicht so rot.
 
 **Techniken:** Holzbearbeitung, Messingbeschläge
 
@@ -303,9 +304,10 @@ Aus einem massiven Stück herausgearbeitet — nur in zwei Teile geschnitten. Me
 
 #### Dodekaeder-Lampe (Jul 2024)
 
-<img src="img/7901311919917776.jpg" width="400" /> <img src="img/7901311979917770.jpg" width="400" />
+<img src="img/7901284173253884.jpg" width="400" /> <img src="img/7901284279920540.jpg" width="400" />
+<img src="img/7901284203253881.jpg" width="400" />
 
-Geometrische Pentagondodekaeder-Leuchte aus lasergeschnittenen Holzteilen. Tisch- oder Hängelampe.
+Eine Dodekaeder-Lampe. Man kann diese auf den Tisch stellen oder auch an die Decke hängen.
 
 **Techniken:** Laserschneiden, geometrische Konstruktion
 
@@ -313,7 +315,7 @@ Geometrische Pentagondodekaeder-Leuchte aus lasergeschnittenen Holzteilen. Tisch
 
 #### Wikinger-Kompass-Uhr / Vegvisir (Jul 2024)
 
-<img src="img/7901298266585808.jpg" width="400" /> <img src="img/7901298296585805.jpg" width="400" />
+<img src="img/7901257229923245.jpg" width="400" />
 
 Aus einem einzigen Stück Eiche als Relief herausgearbeitet. Brauchte 5 Anläufe — Holz bricht, hat Einschlüsse. Aber Versuch Nr. 5 war ein Erfolg. Leider eine ganze Bohle Eiche benötigt.
 
@@ -321,12 +323,11 @@ Aus einem einzigen Stück Eiche als Relief herausgearbeitet. Brauchte 5 Anläufe
 
 ---
 
-#### Laserkammer aus Sperrmüll (2024)
+#### Laserkammer aus Sperrmüll (Jul 2024)
 
-<img src="img/7901284173253884.jpg" width="400" /> <img src="img/7901284203253881.jpg" width="400" />
-<img src="img/7901284279920540.jpg" width="400" />
+<img src="img/7901236666591968.jpg" width="400" />
 
-Komplett aus Sperrmüll-Holzresten. Hermetisch schließend, Unterdruck-Absaugung, 3-Kammer-Filter, zwei Lüfter in Reihe, orangenes Sicherheitsglas, Kameraüberwachung, feuergeschützt imprägniert. Der 3D-Drucker steht in der Einhausung darunter.
+Komplett aus Sperrmüll-Holzresten. Gehäuse für den Gravur-Laser, steht auf dem Gehäuse für den 3D-Drucker. Oben drauf die Rauch-Absaugung und der Luftreiniger/Filter. Alles selber gebaut. Orangenes Sicherheitsglas, Kameraüberwachung, feuergeschützt imprägniert.
 
 **Techniken:** Sicherheits-Engineering, Absaug-/Filtertechnik, Upcycling
 
@@ -334,27 +335,27 @@ Komplett aus Sperrmüll-Holzresten. Hermetisch schließend, Unterdruck-Absaugung
 
 #### River Table mit LED-Beleuchtung (Jul 2024)
 
-<img src="img/7901236666591968.jpg" width="400" /> <img src="img/7901257229923245.jpg" width="400" />
+<img src="img/7901221993260102.jpg" width="400" />
 
-Eichen-Planken, Epoxidharz, farbige LEDs mit Fernbedienung. Gestell: eine durchgerostete Feuerstelle, aufgearbeitet. Das komplexeste Einzelprojekt der Sammlung.
+Ein kleiner River Table für den Garten. Das Gestell war eine Feuerstelle, welche durchgerostet war — aufgearbeitet. Eiche und LED-Lichterkette mit eingearbeitet.
 
 **Techniken:** Epoxidharz, LED-Elektronik, Metall-Upcycling
 
 ---
 
-#### Handyhülle mit Holzrückseite + Gravur (Jul 2024)
+#### Handyhülle mit Gravur (Jul 2024)
 
-<img src="img/7901221993260102.jpg" width="400" />
+<img src="img/7901215016594133.jpg" width="400" />
 
-Holz auf Handyhülle angebracht und graviert mit lettischem Webmuster und Hirsch-Silhouette.
+Eine Handyhülle, welche ich selber graviert habe. Lettisches Webmuster und Hirsch-Silhouette.
 
-**Techniken:** Lasergravur, Mixed Media
+**Techniken:** Lasergravur
 
 ---
 
 #### Vase Birne + Gold-Epoxid (Jul 2024)
 
-<img src="img/7901215016594133.jpg" width="400" />
+<img src="img/7901194263262875.jpg" width="400" />
 
 Birne mit Epoxid vergossen. Beim Arbeiten mit Blattgold fielen Reste auf den Rohling — daher die goldene Farbe. Auch mit Pigmenten muss man Erfahrungen sammeln.
 
@@ -364,9 +365,9 @@ Birne mit Epoxid vergossen. Beim Arbeiten mit Blattgold fielen Reste auf den Roh
 
 #### Lichtenberg-Frühstücksbrett (Jul 2024)
 
-<img src="img/7901194263262875.jpg" width="400" />
+<img src="img/7901178963264405.jpg" width="400" /> <img src="img/7901177953264506.jpg" width="400" />
 
-Das eingebrannte Muster (Hochspannung, nicht Gravur!) wurde mit Epoxid aufgefüllt.
+Ein kleines Frühstücksbrett. Der eingebrannte "Blitz" (Hochspannung, nicht Gravur!) wurde mit Epoxid aufgefüllt.
 
 **Techniken:** Lichtenberg (Hochspannung), Epoxidharz
 
@@ -374,9 +375,9 @@ Das eingebrannte Muster (Hochspannung, nicht Gravur!) wurde mit Epoxid aufgefül
 
 #### Schmuckdose Lettische Nationalfarben (Jul 2024)
 
-<img src="img/7901177953264506.jpg" width="400" /> <img src="img/7901178963264405.jpg" width="400" />
+<img src="img/7901172159931752.jpg" width="400" /> <img src="img/7901172216598413.jpg" width="400" />
 
-Epoxid in karminrot/weiß/karminrot — die Landesfarben Lettlands.
+Eine kleine Schmuckdose aus Epoxid in den Landesfarben Lettlands.
 
 **Techniken:** Drechseln, Epoxidharz
 
@@ -387,7 +388,7 @@ Epoxid in karminrot/weiß/karminrot — die Landesfarben Lettlands.
 <img src="img/7901158876599747.jpg" width="400" /> <img src="img/7901158906599744.jpg" width="400" />
 <img src="img/7901158993266402.jpg" width="400" />
 
-Lasergeschnittene Boxen für Windlichter, passend für verschiedene Glasgrößen.
+Boxen für Windlichter. Für verschiedene Glasgrößen die eingesetzt werden.
 
 **Techniken:** Laserschneiden
 
@@ -415,9 +416,9 @@ Eine Uhr für einen Freund. Insel Rügen, blaues Epoxid, echtes Blattgold. Mein 
 
 #### Ginkgo-Vase als Dankgeschenk (Jul 2024)
 
-<img src="img/7901122553270046.jpg" width="400" />
+<img src="img/7901122553270046.jpg" width="400" /> <img src="img/7901106789938289.jpg" width="400" />
 
-Nachbar fällte Ginkgo, schenkte Holz. Als Dank: Vase aus seinem Holz, im Vakuum getrocknet, in Epoxid gegossen. Ein Geschenk AUS dem Material des Gebers.
+Nachbar fällte Ginkgo, schenkte Holz. Als Dank: Vase aus seinem Holz, im Vakuum getrocknet, in Epoxid gegossen.
 
 **Techniken:** Drechseln, Vakuumtrocknung, Epoxidharz
 
@@ -434,9 +435,9 @@ Rohling aus einer alten Birne vom Garten meiner Mutter, in Epoxid gegossen. Kern
 
 ---
 
-#### Epoxid-Beistelltisch auf gedrechselten Beinen (Jul 2024)
+#### Beistelltisch Lettland-Holz + Epoxid (Jul 2024)
 
-<img src="img/7901080979940870.jpg" width="400" /> <img src="img/7901106789938289.jpg" width="400" />
+<img src="img/7901080979940870.jpg" width="400" />
 
 Ein kleiner Beistelltisch. Das Holz stammt aus unserem Garten in Lettland und die Scheiben wurden mit Epoxid eingegossen.
 
@@ -497,24 +498,15 @@ Eine kleine Vase/Stifthalter aus Purple Heart und Kiefer gedrechselt. Mit Lack v
 
 ---
 
-### Die Anfänge
-
-#### Mein erster Schemel (handgeschnitzt)
-
-Zwei Stift-Halter aus einem alten Birnenbaum gedrechselt, stehen auf meinem allerersten Werkstück — einem Schemel für meine Werkstatt. Zu diesem Zeitpunkt besaß ich nur: eine kleine Bandsäge, einen Winkelschleifer, eine Stichsäge, einen Bohrer und ein Multitool. **Von Null zum Ökosystem.**
-
----
-
 ## Muster
 
 Wer genau hinschaut, erkennt ein Muster — das gleiche, das sich durch meine berufliche Arbeit zieht:
 
 - **Vom Rohmaterial zum fertigen Produkt.** Ein Ast wird zum Kerzenständer. Ein chaotisches PLM-Programm wird zum stabilen System.
-- **Werkzeugkombination.** Kein Projekt nutzt nur ein Werkzeug. CNC + Laser + Drechselbank + Epoxid. Beruflich: PRO.FILE + SAP + BPMN + KPI + Steering.
-- **Problem zu groß? Zerlegen.** Namensschild passt nicht auf die CNC? In Segmente zerlegen. PLM-Programm zu komplex? In Workstreams zerlegen.
-- **Werkzeugbau für Werkzeugbau.** Die 3D-gedruckte Lünette. Die Laserkammer aus Sperrmüll. Beruflich: Governance-Frameworks, die Programme erst möglich machen.
-- **Von Null zum Ökosystem.** Angefangen mit Bandsäge und Stichsäge — heute eine vollständige Werkstatt. Beruflich: PLM-Ökosysteme schrittweise aufgebaut.
-- **Für jemanden gemacht.** Fast jedes Projekt ist ein Geschenk oder für die Familie.
+- **Werkzeugkombination.** Kein Projekt nutzt nur ein Werkzeug. CNC + Laser + Drechselbank + Epoxid.
+- **Problem zu groß? Zerlegen.** Namensschild passt nicht auf die CNC? In Segmente zerlegen.
+- **Werkzeugbau für Werkzeugbau.** Die 3D-gedruckte Lünette. Die Laserkammer aus Sperrmüll.
+- **Von Null zum Ökosystem.** Angefangen mit Bandsäge und Stichsäge — heute eine vollständige Werkstatt.
 
 ---
 
